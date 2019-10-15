@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image goes here](https://guides.github.com/images/logo@2x.png)
